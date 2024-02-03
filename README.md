@@ -1,11 +1,10 @@
 ### <p align="center">Доброго времени суток, мое имя Александр! 👋</p>
 👨‍💻 Я Дата-аналитик <br>
 🖥️С 2022 года работал в таких компаниях как Газпром-нефть и Сбербанк <br>
-💪HARD Skills: <br>
+💪HARD Skills:
 - Power BI <br>
 - QlikView <br>
 - Python 🐍 (Pandas🐼, Seaborn) <br>
 - Excel/Power Query <br>
-- SQL <br>
-📱My Telegramm: <br>
-<a href="[URL](https://t.me/alpha_axel)https://t.me/alpha_axel">@alpha_axel</a>
+- SQL
+📱My Telegramm: <a href="[URL](https://t.me/alpha_axel)https://t.me/alpha_axel">@alpha_axel</a>
