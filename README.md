@@ -6,5 +6,5 @@
 - QlikView <br>
 - Python 🐍 (Pandas🐼, Seaborn) <br>
 - Excel/Power Query <br>
-- SQL
+- SQL <br>
 📱My Telegramm: <a href="[URL](https://t.me/alpha_axel)https://t.me/alpha_axel">@alpha_axel</a>
